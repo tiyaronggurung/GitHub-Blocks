@@ -1,0 +1,42 @@
+*{
+    margin: 0 auto;
+}
+
+.container {
+    width: 800px;
+    background-color:rgb(223, 213, 168);
+    text-align: center;
+    margin: 0 center;
+    padding: 20px;
+    
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+
+img.octocat {
+    height: 200px;
+}
+
+.row {
+    display: flex;
+    background-color: rgb(28, 61, 206);
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+}
+.red {
+    background-color: rgb(211, 115, 102);
+}
+.green {
+    background-color: rgb(102, 163, 135);
+    justify-content: space-evenly;
+
+}
+p{
+    font-size: 15px;
+    font-family: sans-serif;
+}
